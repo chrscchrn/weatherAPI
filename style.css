@@ -1,7 +1,6 @@
 html {
     font-size: 16px;
     line-height: 1.5;
-    font-family: "Times New Roman", "Avenir Next", Avenir, "Helvetica Neue";
     box-sizing: border-box;
 }
 
@@ -20,9 +19,6 @@ body {
     /* align-self: center; ????*/
 }
 
-#searchHeader {
-    color: white;
-}
 #sideColumn {
     background-color: rgba(195, 195, 195, 0.459);
     margin: 0px;
